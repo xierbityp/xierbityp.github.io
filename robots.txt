@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://xierbityp.github.io/sitemap.html.gz
+Sitemap: https://xierbityp.github.io/app/sitemap.html.gz
+Sitemap: https://xierbityp.github.io/assets/sitemap.html.gz
+Sitemap: https://xierbityp.github.io/css/sitemap.html.gz
+Sitemap: https://xierbityp.github.io/includes/sitemap.html.gz
+Sitemap: https://xierbityp.github.io/item/sitemap.html.gz
+Sitemap: https://xierbityp.github.io/src/sitemap.html.gz
